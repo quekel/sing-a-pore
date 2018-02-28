@@ -29,7 +29,7 @@ The following meals will be provided by the organisers:
   *	Closing party on 22nd September (venue tbc)
 
 For the more adventurous, there are a myriad of dining venues and cuisines to choose from around Biopolis, some of which are listed here:
-  *	Biopolis <a href="https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista" target="_blank">https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista</a>
+  *	Biopolis 
 	  *	<a hre="http://www.thelawn.com.sg" target="_blank">http://www.thelawn.com.sg</a> (salad bar)
 	  *	<a hre="http://www.longblack.com.sg" target="_blank">http://www.longblack.com.sg</a> (burgers, pasta, and more)
 	  *	<a hre="https://www.rajrestaurant.com.sg" target="_blank">https://www.rajrestaurant.com.sg</a> (Indian)
