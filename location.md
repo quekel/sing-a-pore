@@ -9,7 +9,7 @@ The Genome Building is a short 10-minute walk from the recommended accommodation
 
 ## Accommodation
 
-**Participants are responsible for their own accommodation.** The nearest hotel to Biopolis is Park Avenue Rochester located at 31 Rochester Drive, Singapore 138637, Singapore (<a href="http://parkavenueintl.com/parkavenuerochester" target="_blank">http://parkavenueintl.com/parkavenuerochester</a>. Participants enjoy a special rate as stated below. Please download and send the guest room booking form directly to the hotel.
+**Participants are responsible for their own accommodation.** The nearest hotel to Biopolis is Park Avenue Rochester located at 31 Rochester Drive, Singapore 138637, Singapore (<a href="http://parkavenueintl.com/parkavenuerochester" target="_blank">http://parkavenueintl.com/parkavenuerochester</a>). Participants enjoy a special rate as stated below. Please download and send the guest room booking form directly to the hotel.
 
 Superior room (19 – 20 sqm) at $215++ per room night
 Deluxe room at (21 – 24 sqm) at $225++ per room night
@@ -29,7 +29,7 @@ The following meals will be provided by the organisers:
   *	Closing party on 22nd September (venue tbc)
 
 For the more adventurous, there are a myriad of dining venues and cuisines to choose from around Biopolis, some of which are listed here:
-  *	Biopolis 
+  *	Biopolis <a href="https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista" target="_blank">https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista</a>
 	  *	<a hre="http://www.thelawn.com.sg" target="_blank">http://www.thelawn.com.sg</a> (salad bar)
 	  *	<a hre="http://www.longblack.com.sg" target="_blank">http://www.longblack.com.sg</a> (burgers, pasta, and more)
 	  *	<a hre="https://www.rajrestaurant.com.sg" target="_blank">https://www.rajrestaurant.com.sg</a> (Indian)
