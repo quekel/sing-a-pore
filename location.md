@@ -30,30 +30,30 @@ The following meals will be provided by the organisers:
 
 For the more adventurous, there are a myriad of dining venues and cuisines to choose from around Biopolis, some of which are listed here:
   *	Biopolis <a href="https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista" target="_blank">https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista</a>
-	  *	<a hre="http://www.thelawn.com.sg" target="_blank">http://www.thelawn.com.sg</a> (salad bar)
-	  *	<a hre="http://www.longblack.com.sg" target="_blank">http://www.longblack.com.sg</a> (burgers, pasta, and more)
-	  *	<a hre="https://www.rajrestaurant.com.sg" target="_blank">https://www.rajrestaurant.com.sg</a> (Indian)
-	  *	<a hre="https://www.parkwayonenorth.com" target="_blank">https://www.parkwayonenorth.com</a> (Thai)
-	  *	<a hre="http://www.bigmama.sg/buona-vista" target="_blank">http://www.bigmama.sg/buona-vista</a> (Korean)
-	  *	<a hre="http://peperoni.com.sg/biopolis" target="_blank">http://peperoni.com.sg/biopolis</a> (Italian, pizza)
+	  *	<a href="http://www.thelawn.com.sg" target="_blank">http://www.thelawn.com.sg</a> (salad bar)
+	  *	<a href="http://www.longblack.com.sg" target="_blank">http://www.longblack.com.sg</a> (burgers, pasta, and more)
+	  *	<a href="https://www.rajrestaurant.com.sg" target="_blank">https://www.rajrestaurant.com.sg</a> (Indian)
+	  *	<a href="https://www.parkwayonenorth.com" target="_blank">https://www.parkwayonenorth.com</a> (Thai)
+	  *	<a href="http://www.bigmama.sg/buona-vista" target="_blank">http://www.bigmama.sg/buona-vista</a> (Korean)
+	  *	<a href="http://peperoni.com.sg/biopolis" target="_blank">http://peperoni.com.sg/biopolis</a> (Italian, pizza)
 
-  *	Fusionopolis <a hre="https://www.google.com.sg/maps/@1.2986505,103.7875216,15z" target="_blank">https://www.google.com.sg/maps/@1.2986505,103.7875216,15z</a>
-	  *	<a hre="http://www.yunnangarden.com.sg" target="_blank">http://www.yunnangarden.com.sg</a> (Chinese)
-	  *	<a hre="https://www.facebook.com/kattosingapore" target="_blank">https://www.facebook.com/kattosingapore</a> (Asian)
-	  *	<a hre="http://www.arkadascafe.com.sg/index.html" target="_blank">http://www.arkadascafe.com.sg/index.html</a> (Turkish)
-	  *	<a hre="https://www.facebook.com/thedailycut.sg" target="_blank">https://www.facebook.com/thedailycut.sg</a> (salad bar)
-	  *	<a hre="http://thefoodbarn.com.sg" target="_blank">http://thefoodbarn.com.sg</a> (sandwich)
+  *	Fusionopolis <a href="https://www.google.com.sg/maps/@1.2986505,103.7875216,15z" target="_blank">https://www.google.com.sg/maps/@1.2986505,103.7875216,15z</a>
+	  *	<a href="http://www.yunnangarden.com.sg" target="_blank">http://www.yunnangarden.com.sg</a> (Chinese)
+	  *	<a href="https://www.facebook.com/kattosingapore" target="_blank">https://www.facebook.com/kattosingapore</a> (Asian)
+	  *	<a href="http://www.arkadascafe.com.sg/index.html" target="_blank">http://www.arkadascafe.com.sg/index.html</a> (Turkish)
+	  *	<a href="https://www.facebook.com/thedailycut.sg" target="_blank">https://www.facebook.com/thedailycut.sg</a> (salad bar)
+	  *	<a href="http://thefoodbarn.com.sg" target="_blank">http://thefoodbarn.com.sg</a> (sandwich)
 
-  *	Star Vista <a hre="https://www.capitaland.com/sg/malls/thestarvista/en/concierge/mall-info.html" target="_blank">https://www.capitaland.com/sg/malls/thestarvista/en/concierge/mall-info.html</a> 
-	  *	<a hre="http://yomenya-goemon.com.sg" target="_blank">http://yomenya-goemon.com.sg</a> (Japanese)
-	  *	<a hre="https://www.paradisegp.com/brand-canton-paradise" target="_blank">https://www.paradisegp.com/brand-canton-paradise</a> (Cantonese, Chinese)
-	  *	<a hre="http://district10.com.sg/starvista" target="_blank">http://district10.com.sg/starvista</a> (European)
-	  *	<a hre="http://www.nandos.com.sg/eat/restaurants/star-vista" target="_blank">http://www.nandos.com.sg/eat/restaurants/star-vista</a> (Afro-Portugese, chicken)
-	  *	<a hre="https://www.facebook.com/greendotsg" target="_blank">https://www.facebook.com/greendotsg</a> (vegetarian)
+  *	Star Vista <a href="https://www.capitaland.com/sg/malls/thestarvista/en/concierge/mall-info.html" target="_blank">https://www.capitaland.com/sg/malls/thestarvista/en/concierge/mall-info.html</a> 
+	  *	<a href="http://yomenya-goemon.com.sg" target="_blank">http://yomenya-goemon.com.sg</a> (Japanese)
+	  *	<a href="https://www.paradisegp.com/brand-canton-paradise" target="_blank">https://www.paradisegp.com/brand-canton-paradise</a> (Cantonese, Chinese)
+	  *	<a href="http://district10.com.sg/starvista" target="_blank">http://district10.com.sg/starvista</a> (European)
+	  *	<a href="http://www.nandos.com.sg/eat/restaurants/star-vista" target="_blank">http://www.nandos.com.sg/eat/restaurants/star-vista</a> (Afro-Portugese, chicken)
+	  *	<a href="https://www.facebook.com/greendotsg" target="_blank">https://www.facebook.com/greendotsg</a> (vegetarian)
 
   *	Holland Village <a hre="http://www.holland-village-singapore.com" target="_blank">http://www.holland-village-singapore.com</a>
-	  *	<a hre="http://72obistrosg.com" target="_blank">http://72obistrosg.com</a> (Western)
-	  *	<a hre="https://www.facebook.com/awfullychocolate.sg" target="_blank">https://www.facebook.com/awfullychocolate.sg</a> (chocolates)
-	  *	<a hre="https://www.facebook.com/baden.sg" target="_blank">https://www.facebook.com/baden.sg</a> (German)
-	  *	<a hre="http://bbbs.com.sg" target="_blank">http://bbbs.com.sg</a> (Thai, Western, North Indian)
-	  *	<a hre="http://chachacha.com.sg" target="_blank">http://chachacha.com.sg</a> (Mexican)
+	  *	<a href="http://72obistrosg.com" target="_blank">http://72obistrosg.com</a> (Western)
+	  *	<a href="https://www.facebook.com/awfullychocolate.sg" target="_blank">https://www.facebook.com/awfullychocolate.sg</a> (chocolates)
+	  *	<a href="https://www.facebook.com/baden.sg" target="_blank">https://www.facebook.com/baden.sg</a> (German)
+	  *	<a href="http://bbbs.com.sg" target="_blank">http://bbbs.com.sg</a> (Thai, Western, North Indian)
+	  *	<a href="http://chachacha.com.sg" target="_blank">http://chachacha.com.sg</a> (Mexican)
