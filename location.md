@@ -3,7 +3,7 @@
 # Location, Accommodation, and Dining
 
 ## Location
-Sing-a-Pore Camp 2018 is taking place at the Genome Institute of Singapore (GIS), Genome Building, Biopolis, Singapore 138672 <a href="http://www.streetdirectory.com/sg/genome/60-biopolis-street-138672/2989_10373.html" target="_blank">map</a>). The building is unlocked and accessible during PoreCamp hours.
+Sing-a-Pore Camp 2018 is taking place at the Genome Institute of Singapore (GIS), Genome Building, Biopolis, Singapore 138672 (<a href="http://www.streetdirectory.com/sg/genome/60-biopolis-street-138672/2989_10373.html" target="_blank">map</a>). The building is unlocked and accessible during PoreCamp hours.
 
 The Genome Building is a short 10-minute walk from the recommended accommodation (Park Avenue Rochester). For directions to Biopolis, please see <a href="https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf" target="_blank">https://www.a-star.edu.sg/Portals/79/Directions%20to%20Biopolis_for%20drivers.pdf</a>
 
@@ -29,7 +29,7 @@ The following meals will be provided by the organisers:
   *	Closing party on 22nd September (venue tbc)
 
 For the more adventurous, there are a myriad of dining venues and cuisines to choose from around Biopolis, some of which are listed here:
-  *	Biopolis <a href="https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista" target="_blank">https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista</a> 
+  *	Biopolis <a href="https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista" target="_blank">https://ordinarypatrons.com/2015/08/22/biopolis-food-outlets-and-restaurants-in-one-north-buona-vista</a>
 	  *	<a hre="http://www.thelawn.com.sg" target="_blank">http://www.thelawn.com.sg</a> (salad bar)
 	  *	<a hre="http://www.longblack.com.sg" target="_blank">http://www.longblack.com.sg</a> (burgers, pasta, and more)
 	  *	<a hre="https://www.rajrestaurant.com.sg" target="_blank">https://www.rajrestaurant.com.sg</a> (Indian)
